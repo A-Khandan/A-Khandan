@@ -2,13 +2,18 @@
 
 ### 👨‍💻 About Me:
 - 🎓 **Final Year Computer Science Student**  
-- 💻 Proficient in **C#**, **Python**, and **PostgreSQL**  
+- 💻 Mostly worked with **Python**, **C#**, **Django**, and **PostgreSQL**
 - 🌟 Passionate about learning and exploring new technologies  
 
 ### 🌱 Currently Learning:
-- ☁️ **AWS (Amazon Web Services)**  
-- 🛡️ **Cybersecurity**  
+- ☁️ **AWS technologies (Studying to get my AWS Solutions Architect)**  
+- 🛡️ **Cybersecurity**  -- HackTheBox!
 - 🐍 **Django Framework**  
+
+### 📄 Certificates:
+- ☁️ **Certified in cybersecurity from ISC2 (CC)**  
+- 🛡️ **Python Developer from Mimo** 
+- 🐍 **Developing CMS using WordPress** 
 
 ### 👀 Interests:
 - 🤖 **Artificial Intelligence & Machine Learning**  
