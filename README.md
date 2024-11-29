@@ -31,7 +31,7 @@
 
 ### ⚡ Fun Facts:
 - 🚴 I love traveling and exploring new places!  
-- 🧩 I’m learning Japanese in my free time.
+- 🇯🇵 I’m learning Japanese in my free time.
 - 🥁 I love playing drums and piano!  
 
 <!---
