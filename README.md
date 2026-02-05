@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm @A-Khandan! but feel free to call me A.K
 
 ### 👨‍💻 About Me:
-- 🎓 **Final Year Computer Science Student**  
+- 🎓 **MSc Cybersecurity student** 
+- 🎓 **BSc Computer Science graduate**  
 - 💻 Mostly worked with **Python**, **C#**, **Django**, and **PostgreSQL**
 - 🌟 Passionate about learning and exploring new technologies  
 
